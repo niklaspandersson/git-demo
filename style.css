@@ -7,3 +7,8 @@ body {
 h1 {
   background-color: pink;
 }
+
+section {
+  font-size: 1.2em;
+  font-family: fantasy;
+}
